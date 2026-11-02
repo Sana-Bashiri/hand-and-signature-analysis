@@ -1,0 +1,20 @@
+[
+  {
+    "original_path": "project1/ravesh2.ipynb",
+    "renamed_file": "hand_detection_yolov8_training.ipynb",
+    "sha256": "44382c001f1b1e8b8b0fc85d0807eb1cadd1d3bc37eda86ab0e26c1acffe3da3",
+    "preservation": "Byte-for-byte copy; only filename changed."
+  },
+  {
+    "original_path": "project1/Untitled2.ipynb",
+    "renamed_file": "hand_landmark_detection_mediapipe.ipynb",
+    "sha256": "c4aee9e9de36c0adfd24ba0102a00dcbd71ec8aaa95d815b53b4432ff96ba231",
+    "preservation": "Byte-for-byte copy; only filename changed."
+  },
+  {
+    "original_path": "project2/signatureproject.ipynb",
+    "renamed_file": "signature_detection_contours_yolov8.ipynb",
+    "sha256": "2bb00de00ce348b44dd0fa681537cb07ee290ce78c1c8d3975aefb6501354fa6",
+    "preservation": "Byte-for-byte copy; only filename changed."
+  }
+]
