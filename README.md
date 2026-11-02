@@ -3,7 +3,7 @@
 
 Two academic projects collected in `Github-Yolov11`: custom hand detection, hand-landmark visualization, and exploratory signature-region detection.
 
-**Model note:** The code uses **YOLOv8n**, alongside MediaPipe and OpenCV. The requested folder name does not indicate a YOLO11 implementation.
+**Model note:** The code uses **YOLOv8n**, alongside MediaPipe and OpenCV.
 
 ## Contents
 
