@@ -1,6 +1,5 @@
 # Hand and Signature Analysis with Computer Vision
 
-**Author:** Sana Gholipour Bashiri
 
 Two academic projects collected in `Github-Yolov11`: custom hand detection, hand-landmark visualization, and exploratory signature-region detection.
 
@@ -47,4 +46,4 @@ The hand dataset-preparation cell moves paired `.jpg`/`.txt` files; use a fresh 
 
 ## Documents
 
-The finished report uses black text and tables on white pages, with color confined to figures. To compile the editable report source, run LaTeX from `Report/` so the figure paths resolve. Compile `Readme.tex` from the repository root. The PDF was typeset directly; the LaTeX sources were not compiled in this environment.
+The finished report uses black text and tables on white pages, with color confined to figures. To compile the editable report source, run LaTeX from `Report/` so the figure paths resolve. 
